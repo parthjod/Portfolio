@@ -1,12 +1,12 @@
 import React from "react";
 import ProjectCard from "../components/ProjectCard";
-import marioGame from "../assets/images/ParthConnect.png";
+import logo from "../assets/images/ParthConnect.png";
 
 const projects = [
   {
     title: "ParthConnect",
     description: "A Video Calling Platform built using MERN Stack.",
-    image: marioGame,
+    image: logo,
     date: "Mar 2025",
     link: "https://parthconnect.onrender.com",
   },
